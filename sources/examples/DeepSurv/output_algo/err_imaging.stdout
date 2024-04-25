@@ -1,0 +1,12 @@
+Notice: this is an old version of CaPTk. The latest release is available with the command:
+	module load captk/1.9.0
+
+WARNING: Could not fallback to underlay, disabled by configuration ('enable underlay = no')
+2023-03-17 12:29:36.650615: W tensorflow/stream_executor/platform/default/dso_loader.cc:65] Could not load dynamic library 'libcuda.so.1'; dlerror: libcuda.so.1: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/cuda/extras/CUPTI/lib64:/usr/local/cuda/compat/lib:/usr/local/nvidia/lib:/usr/local/nvidia/lib64:/.singularity.d/libs
+2023-03-17 12:29:36.653308: W tensorflow/stream_executor/cuda/cuda_driver.cc:269] failed call to cuInit: UNKNOWN ERROR (303)
+2023-03-17 12:29:36.653416: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:169] retrieving CUDA diagnostic information for host: 211affn009
+2023-03-17 12:29:36.653468: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:176] hostname: 211affn009
+2023-03-17 12:29:36.653636: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:200] libcuda reported version is: NOT_FOUND: was unable to find libcuda.so DSO loaded into this program
+2023-03-17 12:29:36.653783: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:204] kernel reported version is: 460.73.1
+2023-03-17 12:29:36.654532: I tensorflow/core/platform/cpu_feature_guard.cc:194] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  SSE3 SSE4.1 SSE4.2 AVX
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.

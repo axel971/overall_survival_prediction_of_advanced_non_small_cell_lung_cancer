@@ -1,0 +1,3 @@
+/cbica/home/largenta/dev/kidney_segmentation/sources/preprocessing/boundingBox/build/CMakeFiles/rebuild_cache.dir
+/cbica/home/largenta/dev/kidney_segmentation/sources/preprocessing/boundingBox/build/CMakeFiles/edit_cache.dir
+/cbica/home/largenta/dev/kidney_segmentation/sources/preprocessing/boundingBox/build/CMakeFiles/boundingBox.dir

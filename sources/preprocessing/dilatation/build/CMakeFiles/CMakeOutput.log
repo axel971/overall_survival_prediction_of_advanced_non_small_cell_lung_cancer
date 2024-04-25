@@ -1,0 +1,517 @@
+The system is: Linux - 3.10.0-1160.21.1.el7.x86_64 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /cbica/software/external/gcc/centos7/5.2.0/bin/gcc 
+Build flags: ;-Wall
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/3.17.5/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /cbica/software/external/gcc/centos7/5.2.0/bin/g++ 
+Build flags: ;-Wall;-ftemplate-depth=900
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/3.17.5/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_76e6c/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_76e6c.dir/build.make CMakeFiles/cmTC_76e6c.dir/build
+gmake[1]: Entering directory `/gpfs/fs001/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_76e6c.dir/testCCompiler.c.o
+/cbica/software/external/gcc/centos7/5.2.0/bin/gcc   -Wall    -o CMakeFiles/cmTC_76e6c.dir/testCCompiler.c.o   -c /cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_76e6c
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_76e6c.dir/link.txt --verbose=1
+/cbica/software/external/gcc/centos7/5.2.0/bin/gcc -Wall     -rdynamic CMakeFiles/cmTC_76e6c.dir/testCCompiler.c.o  -o cmTC_76e6c 
+gmake[1]: Leaving directory `/gpfs/fs001/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp'
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_37262/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_37262.dir/build.make CMakeFiles/cmTC_37262.dir/build
+gmake[1]: Entering directory `/gpfs/fs001/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o
+/cbica/software/external/gcc/centos7/5.2.0/bin/gcc   -Wall    -v -o CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake3/Modules/CMakeCCompilerABI.c
+Using built-in specs.
+COLLECT_GCC=/cbica/software/external/gcc/centos7/5.2.0/bin/gcc
+Target: x86_64-unknown-linux-gnu
+Configured with: ../gcc-5.2.0/configure --prefix=/cbica/external/gcc/centos6/5.2.0 --with-default-libstdcxx-abi=gcc4-compatible --disable-multilib --with-system-zlib
+Thread model: posix
+gcc version 5.2.0 (GCC) 
+COLLECT_GCC_OPTIONS='-Wall' '-v' '-o' 'CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/cc1 -quiet -v -iprefix /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/ /usr/share/cmake3/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o -Wall -version -o /scratch/largenta/tmp.Ky03bSLouk/ccqy4g6l.s
+GNU C11 (GCC) version 5.2.0 (x86_64-unknown-linux-gnu)
+	compiled by GNU C version 5.2.0, GMP version 4.3.1, MPFR version 2.4.1, MPC version 0.8
+warning: GMP header version 4.3.1 differs from library version 6.0.0.
+warning: MPFR header version 2.4.1 differs from library version 3.1.1.
+warning: MPC header version 0.8 differs from library version 0.9.
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/cbica/software/external/dicom3tools/1.00.snapshot.20110207/include"
+ignoring nonexistent directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../x86_64-unknown-linux-gnu/include"
+ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include"
+ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../include"
+ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed"
+ignoring nonexistent directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../x86_64-unknown-linux-gnu/include"
+ignoring duplicate directory "/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include"
+  as it is a non-system directory that duplicates a system directory
+#include "..." search starts here:
+#include <...> search starts here:
+ /cbica/software/external/dcmtk/centos7/3.6.3/include
+ /cbica/software/external/gdcm/centos7/2.6.1/include
+ /cbica/software/external/bct-cpp/centos7/396/include
+ /cbica/software/lab/dramms/centos7/1.4.2/include
+ /cbica/software/lab/odvba/centos7/3.0/include
+ /cbica/software/external/nifticlib/2.0.0/include
+ /cbica/software/external/nifticlib/2.0.0/include/nifti
+ /cbica/software/lab/sbiaUtilities/0.3.3/centos7/include
+ /cbica/software/external/fsl/centos7/5.0.11/include
+ /cbica/software/external/minc/2.0.13/include
+ /cbica/software/external/dependency_bundle/centos7/3817/include
+ /cbica/software/external/qt/centos7/5.11.1/5.11.1/gcc_64/include
+ /cbica/software/external/gcc/centos7/5.2.0/include
+ /cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include
+ /usr/local/cuda-11.2/include
+ /cbica/software/external/python/anaconda/3/include
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed
+ /usr/local/include
+ /usr/include
+End of search list.
+GNU C11 (GCC) version 5.2.0 (x86_64-unknown-linux-gnu)
+	compiled by GNU C version 5.2.0, GMP version 4.3.1, MPFR version 2.4.1, MPC version 0.8
+warning: GMP header version 4.3.1 differs from library version 6.0.0.
+warning: MPFR header version 2.4.1 differs from library version 3.1.1.
+warning: MPC header version 0.8 differs from library version 0.9.
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: b2f96b96bb92224f035819f9caf0ba16
+COLLECT_GCC_OPTIONS='-Wall' '-v' '-o' 'CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ as -v --64 -o CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o /scratch/largenta/tmp.Ky03bSLouk/ccqy4g6l.s
+GNU assembler version 2.27 (x86_64-redhat-linux) using BFD version version 2.27-41.base.el7
+COMPILER_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/
+LIBRARY_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-Wall' '-v' '-o' 'CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+Linking C executable cmTC_37262
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_37262.dir/link.txt --verbose=1
+/cbica/software/external/gcc/centos7/5.2.0/bin/gcc -Wall    -v -rdynamic CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o  -o cmTC_37262 
+Using built-in specs.
+COLLECT_GCC=/cbica/software/external/gcc/centos7/5.2.0/bin/gcc
+COLLECT_LTO_WRAPPER=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/lto-wrapper
+Target: x86_64-unknown-linux-gnu
+Configured with: ../gcc-5.2.0/configure --prefix=/cbica/external/gcc/centos6/5.2.0 --with-default-libstdcxx-abi=gcc4-compatible --disable-multilib --with-system-zlib
+Thread model: posix
+gcc version 5.2.0 (GCC) 
+COMPILER_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/
+LIBRARY_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-Wall' '-v' '-rdynamic' '-o' 'cmTC_37262' '-mtune=generic' '-march=x86-64'
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/collect2 --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_37262 /lib/../lib64/crt1.o /lib/../lib64/crti.o /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtbegin.o -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc -L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../.. CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtend.o /lib/../lib64/crtn.o
+gmake[1]: Leaving directory `/gpfs/fs001/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/cbica/software/external/dcmtk/centos7/3.6.3/include]
+    add: [/cbica/software/external/gdcm/centos7/2.6.1/include]
+    add: [/cbica/software/external/bct-cpp/centos7/396/include]
+    add: [/cbica/software/lab/dramms/centos7/1.4.2/include]
+    add: [/cbica/software/lab/odvba/centos7/3.0/include]
+    add: [/cbica/software/external/nifticlib/2.0.0/include]
+    add: [/cbica/software/external/nifticlib/2.0.0/include/nifti]
+    add: [/cbica/software/lab/sbiaUtilities/0.3.3/centos7/include]
+    add: [/cbica/software/external/fsl/centos7/5.0.11/include]
+    add: [/cbica/software/external/minc/2.0.13/include]
+    add: [/cbica/software/external/dependency_bundle/centos7/3817/include]
+    add: [/cbica/software/external/qt/centos7/5.11.1/5.11.1/gcc_64/include]
+    add: [/cbica/software/external/gcc/centos7/5.2.0/include]
+    add: [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include]
+    add: [/usr/local/cuda-11.2/include]
+    add: [/cbica/software/external/python/anaconda/3/include]
+    add: [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include]
+    add: [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed]
+    add: [/usr/local/include]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/cbica/software/external/dcmtk/centos7/3.6.3/include] ==> [/cbica/software/external/dcmtk/centos7/3.6.3/include]
+  collapse include dir [/cbica/software/external/gdcm/centos7/2.6.1/include] ==> [/cbica/software/external/gdcm/centos7/2.6.1/include]
+  collapse include dir [/cbica/software/external/bct-cpp/centos7/396/include] ==> [/cbica/software/external/bct-cpp/centos7/396/include]
+  collapse include dir [/cbica/software/lab/dramms/centos7/1.4.2/include] ==> [/cbica/software/lab/dramms/centos7/1.4.2/include]
+  collapse include dir [/cbica/software/lab/odvba/centos7/3.0/include] ==> [/cbica/software/lab/odvba/centos7/3.0/include]
+  collapse include dir [/cbica/software/external/nifticlib/2.0.0/include] ==> [/cbica/software/external/nifticlib/2.0.0/include]
+  collapse include dir [/cbica/software/external/nifticlib/2.0.0/include/nifti] ==> [/cbica/software/external/nifticlib/2.0.0/include/nifti]
+  collapse include dir [/cbica/software/lab/sbiaUtilities/0.3.3/centos7/include] ==> [/cbica/software/lab/sbiaUtilities/0.3.3/centos7/include]
+  collapse include dir [/cbica/software/external/fsl/centos7/5.0.11/include] ==> [/cbica/software/external/fsl/centos7/5.0.11/include]
+  collapse include dir [/cbica/software/external/minc/2.0.13/include] ==> [/cbica/software/external/minc/2.0.13/include]
+  collapse include dir [/cbica/software/external/dependency_bundle/centos7/3817/include] ==> [/cbica/software/external/dependency_bundle/centos7/3817/include]
+  collapse include dir [/cbica/software/external/qt/centos7/5.11.1/5.11.1/gcc_64/include] ==> [/cbica/software/external/qt/centos7/5.11.1/5.11.1/gcc_64/include]
+  collapse include dir [/cbica/software/external/gcc/centos7/5.2.0/include] ==> [/cbica/software/external/gcc/centos7/5.2.0/include]
+  collapse include dir [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include] ==> [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include]
+  collapse include dir [/usr/local/cuda-11.2/include] ==> [/usr/local/cuda-11.2/include]
+  collapse include dir [/cbica/software/external/python/anaconda/3/include] ==> [/cbica/software/external/python/anaconda/3/include]
+  collapse include dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include]
+  collapse include dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/cbica/software/external/dcmtk/centos7/3.6.3/include;/cbica/software/external/gdcm/centos7/2.6.1/include;/cbica/software/external/bct-cpp/centos7/396/include;/cbica/software/lab/dramms/centos7/1.4.2/include;/cbica/software/lab/odvba/centos7/3.0/include;/cbica/software/external/nifticlib/2.0.0/include;/cbica/software/external/nifticlib/2.0.0/include/nifti;/cbica/software/lab/sbiaUtilities/0.3.3/centos7/include;/cbica/software/external/fsl/centos7/5.0.11/include;/cbica/software/external/minc/2.0.13/include;/cbica/software/external/dependency_bundle/centos7/3817/include;/cbica/software/external/qt/centos7/5.11.1/5.11.1/gcc_64/include;/cbica/software/external/gcc/centos7/5.2.0/include;/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include;/usr/local/cuda-11.2/include;/cbica/software/external/python/anaconda/3/include;/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include;/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed;/usr/local/include;/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake cmTC_37262/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_37262.dir/build.make CMakeFiles/cmTC_37262.dir/build]
+  ignore line: [gmake[1]: Entering directory `/gpfs/fs001/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/cbica/software/external/gcc/centos7/5.2.0/bin/gcc   -Wall    -v -o CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake3/Modules/CMakeCCompilerABI.c]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/cbica/software/external/gcc/centos7/5.2.0/bin/gcc]
+  ignore line: [Target: x86_64-unknown-linux-gnu]
+  ignore line: [Configured with: ../gcc-5.2.0/configure --prefix=/cbica/external/gcc/centos6/5.2.0 --with-default-libstdcxx-abi=gcc4-compatible --disable-multilib --with-system-zlib]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 5.2.0 (GCC) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-Wall' '-v' '-o' 'CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/cc1 -quiet -v -iprefix /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/ /usr/share/cmake3/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o -Wall -version -o /scratch/largenta/tmp.Ky03bSLouk/ccqy4g6l.s]
+  ignore line: [GNU C11 (GCC) version 5.2.0 (x86_64-unknown-linux-gnu)]
+  ignore line: [	compiled by GNU C version 5.2.0  GMP version 4.3.1  MPFR version 2.4.1  MPC version 0.8]
+  ignore line: [warning: GMP header version 4.3.1 differs from library version 6.0.0.]
+  ignore line: [warning: MPFR header version 2.4.1 differs from library version 3.1.1.]
+  ignore line: [warning: MPC header version 0.8 differs from library version 0.9.]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/cbica/software/external/dicom3tools/1.00.snapshot.20110207/include"]
+  ignore line: [ignoring nonexistent directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../x86_64-unknown-linux-gnu/include"]
+  ignore line: [ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include"]
+  ignore line: [ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../include"]
+  ignore line: [ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../x86_64-unknown-linux-gnu/include"]
+  ignore line: [ignoring duplicate directory "/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include"]
+  ignore line: [  as it is a non-system directory that duplicates a system directory]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /cbica/software/external/dcmtk/centos7/3.6.3/include]
+  ignore line: [ /cbica/software/external/gdcm/centos7/2.6.1/include]
+  ignore line: [ /cbica/software/external/bct-cpp/centos7/396/include]
+  ignore line: [ /cbica/software/lab/dramms/centos7/1.4.2/include]
+  ignore line: [ /cbica/software/lab/odvba/centos7/3.0/include]
+  ignore line: [ /cbica/software/external/nifticlib/2.0.0/include]
+  ignore line: [ /cbica/software/external/nifticlib/2.0.0/include/nifti]
+  ignore line: [ /cbica/software/lab/sbiaUtilities/0.3.3/centos7/include]
+  ignore line: [ /cbica/software/external/fsl/centos7/5.0.11/include]
+  ignore line: [ /cbica/software/external/minc/2.0.13/include]
+  ignore line: [ /cbica/software/external/dependency_bundle/centos7/3817/include]
+  ignore line: [ /cbica/software/external/qt/centos7/5.11.1/5.11.1/gcc_64/include]
+  ignore line: [ /cbica/software/external/gcc/centos7/5.2.0/include]
+  ignore line: [ /cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include]
+  ignore line: [ /usr/local/cuda-11.2/include]
+  ignore line: [ /cbica/software/external/python/anaconda/3/include]
+  ignore line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include]
+  ignore line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C11 (GCC) version 5.2.0 (x86_64-unknown-linux-gnu)]
+  ignore line: [	compiled by GNU C version 5.2.0  GMP version 4.3.1  MPFR version 2.4.1  MPC version 0.8]
+  ignore line: [warning: GMP header version 4.3.1 differs from library version 6.0.0.]
+  ignore line: [warning: MPFR header version 2.4.1 differs from library version 3.1.1.]
+  ignore line: [warning: MPC header version 0.8 differs from library version 0.9.]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: b2f96b96bb92224f035819f9caf0ba16]
+  ignore line: [COLLECT_GCC_OPTIONS='-Wall' '-v' '-o' 'CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o /scratch/largenta/tmp.Ky03bSLouk/ccqy4g6l.s]
+  ignore line: [GNU assembler version 2.27 (x86_64-redhat-linux) using BFD version version 2.27-41.base.el7]
+  ignore line: [COMPILER_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/]
+  ignore line: [LIBRARY_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-Wall' '-v' '-o' 'CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking C executable cmTC_37262]
+  ignore line: [/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_37262.dir/link.txt --verbose=1]
+  ignore line: [/cbica/software/external/gcc/centos7/5.2.0/bin/gcc -Wall    -v -rdynamic CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o  -o cmTC_37262 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/cbica/software/external/gcc/centos7/5.2.0/bin/gcc]
+  ignore line: [COLLECT_LTO_WRAPPER=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/lto-wrapper]
+  ignore line: [Target: x86_64-unknown-linux-gnu]
+  ignore line: [Configured with: ../gcc-5.2.0/configure --prefix=/cbica/external/gcc/centos6/5.2.0 --with-default-libstdcxx-abi=gcc4-compatible --disable-multilib --with-system-zlib]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 5.2.0 (GCC) ]
+  ignore line: [COMPILER_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/]
+  ignore line: [LIBRARY_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-Wall' '-v' '-rdynamic' '-o' 'cmTC_37262' '-mtune=generic' '-march=x86-64']
+  link line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/collect2 --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_37262 /lib/../lib64/crt1.o /lib/../lib64/crti.o /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtbegin.o -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc -L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../.. CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtend.o /lib/../lib64/crtn.o]
+    arg [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/collect2] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_37262] ==> ignore
+    arg [/lib/../lib64/crt1.o] ==> ignore
+    arg [/lib/../lib64/crti.o] ==> ignore
+    arg [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtbegin.o] ==> ignore
+    arg [-L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0] ==> dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0]
+    arg [-L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc] ==> dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc]
+    arg [-L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64] ==> dir [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64]
+    arg [-L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64] ==> dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64] ==> dir [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64]
+    arg [-L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../..] ==> dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../..]
+    arg [CMakeFiles/cmTC_37262.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtend.o] ==> ignore
+    arg [/lib/../lib64/crtn.o] ==> ignore
+  collapse library dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0]
+  collapse library dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib/gcc]
+  collapse library dir [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64] ==> [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64]
+  collapse library dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64] ==> [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64]
+  collapse library dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../..] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib]
+  implicit libs: [gcc;gcc_s;c;gcc;gcc_s]
+  implicit dirs: [/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0;/cbica/software/external/gcc/centos6/5.2.0/lib/gcc;/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64;/cbica/software/external/gcc/centos6/5.2.0/lib64;/lib64;/usr/lib64;/cbica/software/external/gcc/centos6/5.2.0/lib]
+  implicit fwks: []
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_b2371/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_b2371.dir/build.make CMakeFiles/cmTC_b2371.dir/build
+gmake[1]: Entering directory `/gpfs/fs001/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b2371.dir/testCXXCompiler.cxx.o
+/cbica/software/external/gcc/centos7/5.2.0/bin/g++    -Wall -ftemplate-depth=900    -o CMakeFiles/cmTC_b2371.dir/testCXXCompiler.cxx.o -c /cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_b2371
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_b2371.dir/link.txt --verbose=1
+/cbica/software/external/gcc/centos7/5.2.0/bin/g++  -Wall -ftemplate-depth=900     -rdynamic CMakeFiles/cmTC_b2371.dir/testCXXCompiler.cxx.o  -o cmTC_b2371 
+gmake[1]: Leaving directory `/gpfs/fs001/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp'
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake cmTC_1774e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_1774e.dir/build.make CMakeFiles/cmTC_1774e.dir/build
+gmake[1]: Entering directory `/gpfs/fs001/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o
+/cbica/software/external/gcc/centos7/5.2.0/bin/g++    -Wall -ftemplate-depth=900    -v -o CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp
+Using built-in specs.
+COLLECT_GCC=/cbica/software/external/gcc/centos7/5.2.0/bin/g++
+Target: x86_64-unknown-linux-gnu
+Configured with: ../gcc-5.2.0/configure --prefix=/cbica/external/gcc/centos6/5.2.0 --with-default-libstdcxx-abi=gcc4-compatible --disable-multilib --with-system-zlib
+Thread model: posix
+gcc version 5.2.0 (GCC) 
+COLLECT_GCC_OPTIONS='-Wall' '-ftemplate-depth=900' '-v' '-o' 'CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/cc1plus -quiet -v -iprefix /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/ -D_GNU_SOURCE /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o -Wall -version -ftemplate-depth=900 -o /scratch/largenta/tmp.Ky03bSLouk/ccYbx588.s
+GNU C++ (GCC) version 5.2.0 (x86_64-unknown-linux-gnu)
+	compiled by GNU C version 5.2.0, GMP version 4.3.1, MPFR version 2.4.1, MPC version 0.8
+warning: GMP header version 4.3.1 differs from library version 6.0.0.
+warning: MPFR header version 2.4.1 differs from library version 3.1.1.
+warning: MPC header version 0.8 differs from library version 0.9.
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../x86_64-unknown-linux-gnu/include"
+ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0"
+ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/x86_64-unknown-linux-gnu"
+ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/backward"
+ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include"
+ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed"
+ignoring nonexistent directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../x86_64-unknown-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/x86_64-unknown-linux-gnu
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/backward
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed
+ /usr/local/include
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../include
+ /usr/include
+End of search list.
+GNU C++ (GCC) version 5.2.0 (x86_64-unknown-linux-gnu)
+	compiled by GNU C version 5.2.0, GMP version 4.3.1, MPFR version 2.4.1, MPC version 0.8
+warning: GMP header version 4.3.1 differs from library version 6.0.0.
+warning: MPFR header version 2.4.1 differs from library version 3.1.1.
+warning: MPC header version 0.8 differs from library version 0.9.
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 889edf7f2dc1177addf238eac7994ba7
+COLLECT_GCC_OPTIONS='-Wall' '-ftemplate-depth=900' '-v' '-o' 'CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ as -v --64 -o CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o /scratch/largenta/tmp.Ky03bSLouk/ccYbx588.s
+GNU assembler version 2.27 (x86_64-redhat-linux) using BFD version version 2.27-41.base.el7
+COMPILER_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/
+LIBRARY_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-Wall' '-ftemplate-depth=900' '-v' '-o' 'CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+Linking CXX executable cmTC_1774e
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_1774e.dir/link.txt --verbose=1
+/cbica/software/external/gcc/centos7/5.2.0/bin/g++  -Wall -ftemplate-depth=900    -v -rdynamic CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_1774e 
+Using built-in specs.
+COLLECT_GCC=/cbica/software/external/gcc/centos7/5.2.0/bin/g++
+COLLECT_LTO_WRAPPER=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/lto-wrapper
+Target: x86_64-unknown-linux-gnu
+Configured with: ../gcc-5.2.0/configure --prefix=/cbica/external/gcc/centos6/5.2.0 --with-default-libstdcxx-abi=gcc4-compatible --disable-multilib --with-system-zlib
+Thread model: posix
+gcc version 5.2.0 (GCC) 
+COMPILER_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/
+LIBRARY_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-Wall' '-ftemplate-depth=900' '-v' '-rdynamic' '-o' 'cmTC_1774e' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/collect2 --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_1774e /lib/../lib64/crt1.o /lib/../lib64/crti.o /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtbegin.o -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc -L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../.. CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtend.o /lib/../lib64/crtn.o
+gmake[1]: Leaving directory `/gpfs/fs001/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include]
+    add: [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0]
+    add: [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/x86_64-unknown-linux-gnu]
+    add: [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/backward]
+    add: [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include]
+    add: [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed]
+    add: [/usr/local/include]
+    add: [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../include]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include] ==> [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include]
+  collapse include dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0] ==> [/cbica/software/external/gcc/centos6/5.2.0/include/c++/5.2.0]
+  collapse include dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/x86_64-unknown-linux-gnu] ==> [/cbica/software/external/gcc/centos6/5.2.0/include/c++/5.2.0/x86_64-unknown-linux-gnu]
+  collapse include dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/backward] ==> [/cbica/software/external/gcc/centos6/5.2.0/include/c++/5.2.0/backward]
+  collapse include dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include]
+  collapse include dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../include] ==> [/cbica/software/external/gcc/centos6/5.2.0/include]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include;/cbica/software/external/gcc/centos6/5.2.0/include/c++/5.2.0;/cbica/software/external/gcc/centos6/5.2.0/include/c++/5.2.0/x86_64-unknown-linux-gnu;/cbica/software/external/gcc/centos6/5.2.0/include/c++/5.2.0/backward;/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include;/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed;/usr/local/include;/cbica/software/external/gcc/centos6/5.2.0/include;/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/gmake cmTC_1774e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_1774e.dir/build.make CMakeFiles/cmTC_1774e.dir/build]
+  ignore line: [gmake[1]: Entering directory `/gpfs/fs001/cbica/home/largenta/dev/genmab_lung_project/sources/preprocessing/dilatation/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/cbica/software/external/gcc/centos7/5.2.0/bin/g++    -Wall -ftemplate-depth=900    -v -o CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/cbica/software/external/gcc/centos7/5.2.0/bin/g++]
+  ignore line: [Target: x86_64-unknown-linux-gnu]
+  ignore line: [Configured with: ../gcc-5.2.0/configure --prefix=/cbica/external/gcc/centos6/5.2.0 --with-default-libstdcxx-abi=gcc4-compatible --disable-multilib --with-system-zlib]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 5.2.0 (GCC) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-Wall' '-ftemplate-depth=900' '-v' '-o' 'CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/cc1plus -quiet -v -iprefix /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/ -D_GNU_SOURCE /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o -Wall -version -ftemplate-depth=900 -o /scratch/largenta/tmp.Ky03bSLouk/ccYbx588.s]
+  ignore line: [GNU C++ (GCC) version 5.2.0 (x86_64-unknown-linux-gnu)]
+  ignore line: [	compiled by GNU C version 5.2.0  GMP version 4.3.1  MPFR version 2.4.1  MPC version 0.8]
+  ignore line: [warning: GMP header version 4.3.1 differs from library version 6.0.0.]
+  ignore line: [warning: MPFR header version 2.4.1 differs from library version 3.1.1.]
+  ignore line: [warning: MPC header version 0.8 differs from library version 0.9.]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../x86_64-unknown-linux-gnu/include"]
+  ignore line: [ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0"]
+  ignore line: [ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/x86_64-unknown-linux-gnu"]
+  ignore line: [ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/backward"]
+  ignore line: [ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include"]
+  ignore line: [ignoring duplicate directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../x86_64-unknown-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/include]
+  ignore line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0]
+  ignore line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/x86_64-unknown-linux-gnu]
+  ignore line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../include/c++/5.2.0/backward]
+  ignore line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include]
+  ignore line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/include-fixed]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/../../include]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++ (GCC) version 5.2.0 (x86_64-unknown-linux-gnu)]
+  ignore line: [	compiled by GNU C version 5.2.0  GMP version 4.3.1  MPFR version 2.4.1  MPC version 0.8]
+  ignore line: [warning: GMP header version 4.3.1 differs from library version 6.0.0.]
+  ignore line: [warning: MPFR header version 2.4.1 differs from library version 3.1.1.]
+  ignore line: [warning: MPC header version 0.8 differs from library version 0.9.]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 889edf7f2dc1177addf238eac7994ba7]
+  ignore line: [COLLECT_GCC_OPTIONS='-Wall' '-ftemplate-depth=900' '-v' '-o' 'CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o /scratch/largenta/tmp.Ky03bSLouk/ccYbx588.s]
+  ignore line: [GNU assembler version 2.27 (x86_64-redhat-linux) using BFD version version 2.27-41.base.el7]
+  ignore line: [COMPILER_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/]
+  ignore line: [LIBRARY_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-Wall' '-ftemplate-depth=900' '-v' '-o' 'CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking CXX executable cmTC_1774e]
+  ignore line: [/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_1774e.dir/link.txt --verbose=1]
+  ignore line: [/cbica/software/external/gcc/centos7/5.2.0/bin/g++  -Wall -ftemplate-depth=900    -v -rdynamic CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_1774e ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/cbica/software/external/gcc/centos7/5.2.0/bin/g++]
+  ignore line: [COLLECT_LTO_WRAPPER=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/lto-wrapper]
+  ignore line: [Target: x86_64-unknown-linux-gnu]
+  ignore line: [Configured with: ../gcc-5.2.0/configure --prefix=/cbica/external/gcc/centos6/5.2.0 --with-default-libstdcxx-abi=gcc4-compatible --disable-multilib --with-system-zlib]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 5.2.0 (GCC) ]
+  ignore line: [COMPILER_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/]
+  ignore line: [LIBRARY_PATH=/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/:/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-Wall' '-ftemplate-depth=900' '-v' '-rdynamic' '-o' 'cmTC_1774e' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/collect2 --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_1774e /lib/../lib64/crt1.o /lib/../lib64/crti.o /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtbegin.o -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc -L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64 -L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../.. CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtend.o /lib/../lib64/crtn.o]
+    arg [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../libexec/gcc/x86_64-unknown-linux-gnu/5.2.0/collect2] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_1774e] ==> ignore
+    arg [/lib/../lib64/crt1.o] ==> ignore
+    arg [/lib/../lib64/crti.o] ==> ignore
+    arg [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtbegin.o] ==> ignore
+    arg [-L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0] ==> dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0]
+    arg [-L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc] ==> dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc]
+    arg [-L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64] ==> dir [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64]
+    arg [-L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64] ==> dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64]
+    arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
+    arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
+    arg [-L/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64] ==> dir [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64]
+    arg [-L/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../..] ==> dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../..]
+    arg [CMakeFiles/cmTC_1774e.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/crtend.o] ==> ignore
+    arg [/lib/../lib64/crtn.o] ==> ignore
+  collapse library dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0]
+  collapse library dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib/gcc]
+  collapse library dir [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64/../lib64] ==> [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64]
+  collapse library dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../../../lib64] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib64]
+  collapse library dir [/lib/../lib64] ==> [/lib64]
+  collapse library dir [/usr/lib/../lib64] ==> [/usr/lib64]
+  collapse library dir [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64] ==> [/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64]
+  collapse library dir [/gpfs/fs001/cbica/software/external/gcc/centos6/5.2.0/bin/../lib/gcc/x86_64-unknown-linux-gnu/5.2.0/../../..] ==> [/cbica/software/external/gcc/centos6/5.2.0/lib]
+  implicit libs: [stdc++;m;gcc_s;gcc;c;gcc_s;gcc]
+  implicit dirs: [/cbica/software/external/gcc/centos6/5.2.0/lib/gcc/x86_64-unknown-linux-gnu/5.2.0;/cbica/software/external/gcc/centos6/5.2.0/lib/gcc;/cbica/software/external/cudnn/centos7/8.2.1/cuda-11.2/lib64;/cbica/software/external/gcc/centos6/5.2.0/lib64;/lib64;/usr/lib64;/cbica/software/external/gcc/centos6/5.2.0/lib]
+  implicit fwks: []
+
+

@@ -1,0 +1,3 @@
+/cbica/home/largenta/dev/kidney_segmentation/sources/preprocessing/resampling/build/CMakeFiles/rebuild_cache.dir
+/cbica/home/largenta/dev/kidney_segmentation/sources/preprocessing/resampling/build/CMakeFiles/edit_cache.dir
+/cbica/home/largenta/dev/kidney_segmentation/sources/preprocessing/resampling/build/CMakeFiles/resampling.dir

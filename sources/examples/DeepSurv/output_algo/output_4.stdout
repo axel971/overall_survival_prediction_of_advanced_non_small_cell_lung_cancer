@@ -1,0 +1,1019 @@
+Epoch 1/100
+300/300 - 1s - loss: 2.0003 - 1s/epoch - 5ms/step
+Epoch 2/100
+300/300 - 0s - loss: 1.9277 - 451ms/epoch - 2ms/step
+Epoch 3/100
+300/300 - 0s - loss: 1.9405 - 454ms/epoch - 2ms/step
+Epoch 4/100
+300/300 - 0s - loss: 1.9181 - 464ms/epoch - 2ms/step
+Epoch 5/100
+300/300 - 0s - loss: 1.8826 - 454ms/epoch - 2ms/step
+Epoch 6/100
+300/300 - 0s - loss: 1.8825 - 455ms/epoch - 2ms/step
+Epoch 7/100
+300/300 - 0s - loss: 1.8916 - 456ms/epoch - 2ms/step
+Epoch 8/100
+300/300 - 0s - loss: 1.8688 - 459ms/epoch - 2ms/step
+Epoch 9/100
+300/300 - 0s - loss: 1.8880 - 458ms/epoch - 2ms/step
+Epoch 10/100
+300/300 - 0s - loss: 1.8590 - 454ms/epoch - 2ms/step
+Epoch 11/100
+300/300 - 0s - loss: 1.8698 - 457ms/epoch - 2ms/step
+Epoch 12/100
+300/300 - 0s - loss: 1.8427 - 453ms/epoch - 2ms/step
+Epoch 13/100
+300/300 - 0s - loss: 1.8674 - 457ms/epoch - 2ms/step
+Epoch 14/100
+300/300 - 0s - loss: 1.8687 - 459ms/epoch - 2ms/step
+Epoch 15/100
+300/300 - 0s - loss: 1.8511 - 449ms/epoch - 1ms/step
+Epoch 16/100
+300/300 - 0s - loss: 1.8603 - 451ms/epoch - 2ms/step
+Epoch 17/100
+300/300 - 0s - loss: 1.8615 - 449ms/epoch - 1ms/step
+Epoch 18/100
+300/300 - 0s - loss: 1.8484 - 458ms/epoch - 2ms/step
+Epoch 19/100
+300/300 - 0s - loss: 1.8651 - 451ms/epoch - 2ms/step
+Epoch 20/100
+300/300 - 0s - loss: 1.8406 - 440ms/epoch - 1ms/step
+Epoch 21/100
+300/300 - 0s - loss: 1.8227 - 443ms/epoch - 1ms/step
+Epoch 22/100
+300/300 - 0s - loss: 1.8474 - 461ms/epoch - 2ms/step
+Epoch 23/100
+300/300 - 0s - loss: 1.8499 - 452ms/epoch - 2ms/step
+Epoch 24/100
+300/300 - 0s - loss: 1.8447 - 446ms/epoch - 1ms/step
+Epoch 25/100
+300/300 - 0s - loss: 1.8453 - 464ms/epoch - 2ms/step
+Epoch 26/100
+300/300 - 0s - loss: 1.8331 - 459ms/epoch - 2ms/step
+Epoch 27/100
+300/300 - 0s - loss: 1.8253 - 461ms/epoch - 2ms/step
+Epoch 28/100
+300/300 - 0s - loss: 1.8152 - 448ms/epoch - 1ms/step
+Epoch 29/100
+300/300 - 0s - loss: 1.8260 - 451ms/epoch - 2ms/step
+Epoch 30/100
+300/300 - 0s - loss: 1.8250 - 436ms/epoch - 1ms/step
+Epoch 31/100
+300/300 - 0s - loss: 1.8320 - 464ms/epoch - 2ms/step
+Epoch 32/100
+300/300 - 0s - loss: 1.8344 - 461ms/epoch - 2ms/step
+Epoch 33/100
+300/300 - 0s - loss: 1.8112 - 455ms/epoch - 2ms/step
+Epoch 34/100
+300/300 - 0s - loss: 1.8217 - 471ms/epoch - 2ms/step
+Epoch 35/100
+300/300 - 0s - loss: 1.8120 - 455ms/epoch - 2ms/step
+Epoch 36/100
+300/300 - 0s - loss: 1.8190 - 455ms/epoch - 2ms/step
+Epoch 37/100
+300/300 - 0s - loss: 1.8016 - 450ms/epoch - 1ms/step
+Epoch 38/100
+300/300 - 0s - loss: 1.8041 - 457ms/epoch - 2ms/step
+Epoch 39/100
+300/300 - 0s - loss: 1.7952 - 448ms/epoch - 1ms/step
+Epoch 40/100
+300/300 - 0s - loss: 1.7414 - 452ms/epoch - 2ms/step
+Epoch 41/100
+300/300 - 0s - loss: 1.7664 - 455ms/epoch - 2ms/step
+Epoch 42/100
+300/300 - 0s - loss: 1.7738 - 459ms/epoch - 2ms/step
+Epoch 43/100
+300/300 - 0s - loss: 1.7484 - 441ms/epoch - 1ms/step
+Epoch 44/100
+300/300 - 0s - loss: 1.7435 - 437ms/epoch - 1ms/step
+Epoch 45/100
+300/300 - 0s - loss: 1.7533 - 457ms/epoch - 2ms/step
+Epoch 46/100
+300/300 - 0s - loss: 1.7286 - 461ms/epoch - 2ms/step
+Epoch 47/100
+300/300 - 0s - loss: 1.7030 - 454ms/epoch - 2ms/step
+Epoch 48/100
+300/300 - 0s - loss: 1.7245 - 450ms/epoch - 2ms/step
+Epoch 49/100
+300/300 - 0s - loss: 1.7325 - 444ms/epoch - 1ms/step
+Epoch 50/100
+300/300 - 0s - loss: 1.7074 - 462ms/epoch - 2ms/step
+Epoch 51/100
+300/300 - 0s - loss: 1.6775 - 440ms/epoch - 1ms/step
+Epoch 52/100
+300/300 - 0s - loss: 1.6661 - 455ms/epoch - 2ms/step
+Epoch 53/100
+300/300 - 0s - loss: 1.6772 - 452ms/epoch - 2ms/step
+Epoch 54/100
+300/300 - 0s - loss: 1.6544 - 461ms/epoch - 2ms/step
+Epoch 55/100
+300/300 - 0s - loss: 1.6429 - 455ms/epoch - 2ms/step
+Epoch 56/100
+300/300 - 0s - loss: 1.6527 - 457ms/epoch - 2ms/step
+Epoch 57/100
+300/300 - 0s - loss: 1.6312 - 461ms/epoch - 2ms/step
+Epoch 58/100
+300/300 - 0s - loss: 1.6135 - 496ms/epoch - 2ms/step
+Epoch 59/100
+300/300 - 0s - loss: 1.6146 - 481ms/epoch - 2ms/step
+Epoch 60/100
+300/300 - 0s - loss: 1.6037 - 454ms/epoch - 2ms/step
+Epoch 61/100
+300/300 - 0s - loss: 1.6459 - 450ms/epoch - 1ms/step
+Epoch 62/100
+300/300 - 0s - loss: 1.6065 - 437ms/epoch - 1ms/step
+Epoch 63/100
+300/300 - 0s - loss: 1.5928 - 457ms/epoch - 2ms/step
+Epoch 64/100
+300/300 - 0s - loss: 1.5725 - 458ms/epoch - 2ms/step
+Epoch 65/100
+300/300 - 0s - loss: 1.5825 - 456ms/epoch - 2ms/step
+Epoch 66/100
+300/300 - 0s - loss: 1.5938 - 454ms/epoch - 2ms/step
+Epoch 67/100
+300/300 - 0s - loss: 1.5643 - 456ms/epoch - 2ms/step
+Epoch 68/100
+300/300 - 0s - loss: 1.5559 - 452ms/epoch - 2ms/step
+Epoch 69/100
+300/300 - 0s - loss: 1.5403 - 436ms/epoch - 1ms/step
+Epoch 70/100
+300/300 - 0s - loss: 1.5622 - 448ms/epoch - 1ms/step
+Epoch 71/100
+300/300 - 0s - loss: 1.5214 - 451ms/epoch - 2ms/step
+Epoch 72/100
+300/300 - 0s - loss: 1.5408 - 458ms/epoch - 2ms/step
+Epoch 73/100
+300/300 - 0s - loss: 1.5230 - 457ms/epoch - 2ms/step
+Epoch 74/100
+300/300 - 0s - loss: 1.5196 - 454ms/epoch - 2ms/step
+Epoch 75/100
+300/300 - 0s - loss: 1.5356 - 457ms/epoch - 2ms/step
+Epoch 76/100
+300/300 - 0s - loss: 1.5232 - 458ms/epoch - 2ms/step
+Epoch 77/100
+300/300 - 0s - loss: 1.5090 - 453ms/epoch - 2ms/step
+Epoch 78/100
+300/300 - 0s - loss: 1.4874 - 460ms/epoch - 2ms/step
+Epoch 79/100
+300/300 - 0s - loss: 1.5148 - 455ms/epoch - 2ms/step
+Epoch 80/100
+300/300 - 0s - loss: 1.4845 - 453ms/epoch - 2ms/step
+Epoch 81/100
+300/300 - 0s - loss: 1.5024 - 458ms/epoch - 2ms/step
+Epoch 82/100
+300/300 - 0s - loss: 1.4732 - 454ms/epoch - 2ms/step
+Epoch 83/100
+300/300 - 0s - loss: 1.4602 - 457ms/epoch - 2ms/step
+Epoch 84/100
+300/300 - 0s - loss: 1.4603 - 463ms/epoch - 2ms/step
+Epoch 85/100
+300/300 - 0s - loss: 1.4414 - 452ms/epoch - 2ms/step
+Epoch 86/100
+300/300 - 0s - loss: 1.4538 - 456ms/epoch - 2ms/step
+Epoch 87/100
+300/300 - 0s - loss: 1.4502 - 448ms/epoch - 1ms/step
+Epoch 88/100
+300/300 - 0s - loss: 1.4268 - 448ms/epoch - 1ms/step
+Epoch 89/100
+300/300 - 0s - loss: 1.4275 - 464ms/epoch - 2ms/step
+Epoch 90/100
+300/300 - 0s - loss: 1.4265 - 452ms/epoch - 2ms/step
+Epoch 91/100
+300/300 - 0s - loss: 1.4015 - 453ms/epoch - 2ms/step
+Epoch 92/100
+300/300 - 0s - loss: 1.4114 - 435ms/epoch - 1ms/step
+Epoch 93/100
+300/300 - 0s - loss: 1.3728 - 457ms/epoch - 2ms/step
+Epoch 94/100
+300/300 - 0s - loss: 1.3742 - 464ms/epoch - 2ms/step
+Epoch 95/100
+300/300 - 0s - loss: 1.3617 - 438ms/epoch - 1ms/step
+Epoch 96/100
+300/300 - 0s - loss: 1.3716 - 462ms/epoch - 2ms/step
+Epoch 97/100
+300/300 - 0s - loss: 1.3997 - 457ms/epoch - 2ms/step
+Epoch 98/100
+300/300 - 0s - loss: 1.3710 - 455ms/epoch - 2ms/step
+Epoch 99/100
+300/300 - 0s - loss: 1.3663 - 487ms/epoch - 2ms/step
+Epoch 100/100
+300/300 - 0s - loss: 1.3653 - 468ms/epoch - 2ms/step
+training time: 47.08111000061035
+(0.8366782715543724, 8171, 1595, 0, 1)
+(0.6145450836393309, 6025, 3779, 0, 4)
+Epoch 1/100
+300/300 - 1s - loss: 2.0052 - 1s/epoch - 4ms/step
+Epoch 2/100
+300/300 - 0s - loss: 1.9433 - 456ms/epoch - 2ms/step
+Epoch 3/100
+300/300 - 0s - loss: 1.9316 - 452ms/epoch - 2ms/step
+Epoch 4/100
+300/300 - 0s - loss: 1.9012 - 454ms/epoch - 2ms/step
+Epoch 5/100
+300/300 - 0s - loss: 1.8798 - 447ms/epoch - 1ms/step
+Epoch 6/100
+300/300 - 0s - loss: 1.8994 - 446ms/epoch - 1ms/step
+Epoch 7/100
+300/300 - 0s - loss: 1.8615 - 445ms/epoch - 1ms/step
+Epoch 8/100
+300/300 - 0s - loss: 1.8891 - 455ms/epoch - 2ms/step
+Epoch 9/100
+300/300 - 0s - loss: 1.8639 - 452ms/epoch - 2ms/step
+Epoch 10/100
+300/300 - 0s - loss: 1.8564 - 454ms/epoch - 2ms/step
+Epoch 11/100
+300/300 - 0s - loss: 1.8432 - 445ms/epoch - 1ms/step
+Epoch 12/100
+300/300 - 0s - loss: 1.8530 - 458ms/epoch - 2ms/step
+Epoch 13/100
+300/300 - 0s - loss: 1.8313 - 447ms/epoch - 1ms/step
+Epoch 14/100
+300/300 - 0s - loss: 1.8423 - 454ms/epoch - 2ms/step
+Epoch 15/100
+300/300 - 0s - loss: 1.8208 - 443ms/epoch - 1ms/step
+Epoch 16/100
+300/300 - 0s - loss: 1.8382 - 468ms/epoch - 2ms/step
+Epoch 17/100
+300/300 - 0s - loss: 1.8195 - 457ms/epoch - 2ms/step
+Epoch 18/100
+300/300 - 0s - loss: 1.8035 - 439ms/epoch - 1ms/step
+Epoch 19/100
+300/300 - 0s - loss: 1.8000 - 445ms/epoch - 1ms/step
+Epoch 20/100
+300/300 - 0s - loss: 1.8244 - 452ms/epoch - 2ms/step
+Epoch 21/100
+300/300 - 0s - loss: 1.7976 - 457ms/epoch - 2ms/step
+Epoch 22/100
+300/300 - 0s - loss: 1.7960 - 459ms/epoch - 2ms/step
+Epoch 23/100
+300/300 - 0s - loss: 1.7869 - 454ms/epoch - 2ms/step
+Epoch 24/100
+300/300 - 0s - loss: 1.7795 - 445ms/epoch - 1ms/step
+Epoch 25/100
+300/300 - 0s - loss: 1.7881 - 455ms/epoch - 2ms/step
+Epoch 26/100
+300/300 - 0s - loss: 1.7681 - 453ms/epoch - 2ms/step
+Epoch 27/100
+300/300 - 0s - loss: 1.7425 - 458ms/epoch - 2ms/step
+Epoch 28/100
+300/300 - 0s - loss: 1.7394 - 447ms/epoch - 1ms/step
+Epoch 29/100
+300/300 - 0s - loss: 1.7421 - 444ms/epoch - 1ms/step
+Epoch 30/100
+300/300 - 0s - loss: 1.7541 - 453ms/epoch - 2ms/step
+Epoch 31/100
+300/300 - 0s - loss: 1.7351 - 448ms/epoch - 1ms/step
+Epoch 32/100
+300/300 - 0s - loss: 1.7217 - 441ms/epoch - 1ms/step
+Epoch 33/100
+300/300 - 0s - loss: 1.6997 - 441ms/epoch - 1ms/step
+Epoch 34/100
+300/300 - 0s - loss: 1.6940 - 461ms/epoch - 2ms/step
+Epoch 35/100
+300/300 - 0s - loss: 1.7163 - 454ms/epoch - 2ms/step
+Epoch 36/100
+300/300 - 0s - loss: 1.6728 - 448ms/epoch - 1ms/step
+Epoch 37/100
+300/300 - 0s - loss: 1.6661 - 451ms/epoch - 2ms/step
+Epoch 38/100
+300/300 - 0s - loss: 1.6365 - 452ms/epoch - 2ms/step
+Epoch 39/100
+300/300 - 0s - loss: 1.6565 - 453ms/epoch - 2ms/step
+Epoch 40/100
+300/300 - 0s - loss: 1.6533 - 438ms/epoch - 1ms/step
+Epoch 41/100
+300/300 - 0s - loss: 1.6500 - 458ms/epoch - 2ms/step
+Epoch 42/100
+300/300 - 0s - loss: 1.6087 - 459ms/epoch - 2ms/step
+Epoch 43/100
+300/300 - 0s - loss: 1.6404 - 460ms/epoch - 2ms/step
+Epoch 44/100
+300/300 - 0s - loss: 1.6147 - 460ms/epoch - 2ms/step
+Epoch 45/100
+300/300 - 0s - loss: 1.5881 - 453ms/epoch - 2ms/step
+Epoch 46/100
+300/300 - 0s - loss: 1.6439 - 447ms/epoch - 1ms/step
+Epoch 47/100
+300/300 - 0s - loss: 1.5938 - 451ms/epoch - 2ms/step
+Epoch 48/100
+300/300 - 0s - loss: 1.5908 - 445ms/epoch - 1ms/step
+Epoch 49/100
+300/300 - 0s - loss: 1.5806 - 446ms/epoch - 1ms/step
+Epoch 50/100
+300/300 - 0s - loss: 1.5727 - 453ms/epoch - 2ms/step
+Epoch 51/100
+300/300 - 0s - loss: 1.5545 - 456ms/epoch - 2ms/step
+Epoch 52/100
+300/300 - 0s - loss: 1.5580 - 459ms/epoch - 2ms/step
+Epoch 53/100
+300/300 - 0s - loss: 1.5924 - 443ms/epoch - 1ms/step
+Epoch 54/100
+300/300 - 0s - loss: 1.5484 - 447ms/epoch - 1ms/step
+Epoch 55/100
+300/300 - 0s - loss: 1.5449 - 445ms/epoch - 1ms/step
+Epoch 56/100
+300/300 - 0s - loss: 1.5615 - 454ms/epoch - 2ms/step
+Epoch 57/100
+300/300 - 0s - loss: 1.4899 - 458ms/epoch - 2ms/step
+Epoch 58/100
+300/300 - 0s - loss: 1.4907 - 458ms/epoch - 2ms/step
+Epoch 59/100
+300/300 - 0s - loss: 1.4814 - 452ms/epoch - 2ms/step
+Epoch 60/100
+300/300 - 0s - loss: 1.4905 - 463ms/epoch - 2ms/step
+Epoch 61/100
+300/300 - 0s - loss: 1.4820 - 456ms/epoch - 2ms/step
+Epoch 62/100
+300/300 - 0s - loss: 1.4674 - 456ms/epoch - 2ms/step
+Epoch 63/100
+300/300 - 0s - loss: 1.4608 - 443ms/epoch - 1ms/step
+Epoch 64/100
+300/300 - 0s - loss: 1.4553 - 447ms/epoch - 1ms/step
+Epoch 65/100
+300/300 - 0s - loss: 1.4649 - 443ms/epoch - 1ms/step
+Epoch 66/100
+300/300 - 0s - loss: 1.4650 - 447ms/epoch - 1ms/step
+Epoch 67/100
+300/300 - 0s - loss: 1.4270 - 443ms/epoch - 1ms/step
+Epoch 68/100
+300/300 - 0s - loss: 1.4400 - 458ms/epoch - 2ms/step
+Epoch 69/100
+300/300 - 0s - loss: 1.4123 - 460ms/epoch - 2ms/step
+Epoch 70/100
+300/300 - 0s - loss: 1.4435 - 451ms/epoch - 2ms/step
+Epoch 71/100
+300/300 - 0s - loss: 1.4041 - 453ms/epoch - 2ms/step
+Epoch 72/100
+300/300 - 0s - loss: 1.4350 - 450ms/epoch - 2ms/step
+Epoch 73/100
+300/300 - 0s - loss: 1.3988 - 438ms/epoch - 1ms/step
+Epoch 74/100
+300/300 - 0s - loss: 1.3519 - 457ms/epoch - 2ms/step
+Epoch 75/100
+300/300 - 0s - loss: 1.4025 - 449ms/epoch - 1ms/step
+Epoch 76/100
+300/300 - 0s - loss: 1.3636 - 453ms/epoch - 2ms/step
+Epoch 77/100
+300/300 - 0s - loss: 1.3531 - 454ms/epoch - 2ms/step
+Epoch 78/100
+300/300 - 0s - loss: 1.3268 - 457ms/epoch - 2ms/step
+Epoch 79/100
+300/300 - 0s - loss: 1.3603 - 454ms/epoch - 2ms/step
+Epoch 80/100
+300/300 - 0s - loss: 1.3328 - 448ms/epoch - 1ms/step
+Epoch 81/100
+300/300 - 0s - loss: 1.3175 - 449ms/epoch - 1ms/step
+Epoch 82/100
+300/300 - 0s - loss: 1.3600 - 459ms/epoch - 2ms/step
+Epoch 83/100
+300/300 - 0s - loss: 1.3589 - 447ms/epoch - 1ms/step
+Epoch 84/100
+300/300 - 0s - loss: 1.3335 - 458ms/epoch - 2ms/step
+Epoch 85/100
+300/300 - 0s - loss: 1.3207 - 453ms/epoch - 2ms/step
+Epoch 86/100
+300/300 - 0s - loss: 1.3134 - 445ms/epoch - 1ms/step
+Epoch 87/100
+300/300 - 0s - loss: 1.3344 - 447ms/epoch - 1ms/step
+Epoch 88/100
+300/300 - 0s - loss: 1.3488 - 454ms/epoch - 2ms/step
+Epoch 89/100
+300/300 - 0s - loss: 1.2910 - 441ms/epoch - 1ms/step
+Epoch 90/100
+300/300 - 0s - loss: 1.3106 - 450ms/epoch - 2ms/step
+Epoch 91/100
+300/300 - 0s - loss: 1.2929 - 450ms/epoch - 1ms/step
+Epoch 92/100
+300/300 - 0s - loss: 1.2854 - 462ms/epoch - 2ms/step
+Epoch 93/100
+300/300 - 0s - loss: 1.2650 - 454ms/epoch - 2ms/step
+Epoch 94/100
+300/300 - 0s - loss: 1.3026 - 457ms/epoch - 2ms/step
+Epoch 95/100
+300/300 - 0s - loss: 1.3023 - 444ms/epoch - 1ms/step
+Epoch 96/100
+300/300 - 0s - loss: 1.2901 - 456ms/epoch - 2ms/step
+Epoch 97/100
+300/300 - 0s - loss: 1.2395 - 446ms/epoch - 1ms/step
+Epoch 98/100
+300/300 - 0s - loss: 1.2316 - 439ms/epoch - 1ms/step
+Epoch 99/100
+300/300 - 0s - loss: 1.2509 - 459ms/epoch - 2ms/step
+Epoch 100/100
+300/300 - 0s - loss: 1.2209 - 446ms/epoch - 1ms/step
+training time: 46.582377910614014
+(0.890470421966485, 8821, 1085, 0, 0)
+(0.6105186872347034, 5897, 3762, 0, 2)
+Epoch 1/100
+300/300 - 1s - loss: 1.8536 - 1s/epoch - 4ms/step
+Epoch 2/100
+300/300 - 0s - loss: 1.8286 - 450ms/epoch - 1ms/step
+Epoch 3/100
+300/300 - 0s - loss: 1.8587 - 452ms/epoch - 2ms/step
+Epoch 4/100
+300/300 - 0s - loss: 1.8401 - 436ms/epoch - 1ms/step
+Epoch 5/100
+300/300 - 0s - loss: 1.8139 - 459ms/epoch - 2ms/step
+Epoch 6/100
+300/300 - 0s - loss: 1.8200 - 446ms/epoch - 1ms/step
+Epoch 7/100
+300/300 - 0s - loss: 1.8346 - 435ms/epoch - 1ms/step
+Epoch 8/100
+300/300 - 0s - loss: 1.8030 - 437ms/epoch - 1ms/step
+Epoch 9/100
+300/300 - 0s - loss: 1.7858 - 459ms/epoch - 2ms/step
+Epoch 10/100
+300/300 - 0s - loss: 1.7794 - 470ms/epoch - 2ms/step
+Epoch 11/100
+300/300 - 0s - loss: 1.8002 - 459ms/epoch - 2ms/step
+Epoch 12/100
+300/300 - 0s - loss: 1.7772 - 459ms/epoch - 2ms/step
+Epoch 13/100
+300/300 - 0s - loss: 1.7911 - 453ms/epoch - 2ms/step
+Epoch 14/100
+300/300 - 0s - loss: 1.7723 - 439ms/epoch - 1ms/step
+Epoch 15/100
+300/300 - 0s - loss: 1.7518 - 441ms/epoch - 1ms/step
+Epoch 16/100
+300/300 - 0s - loss: 1.7687 - 437ms/epoch - 1ms/step
+Epoch 17/100
+300/300 - 0s - loss: 1.7533 - 452ms/epoch - 2ms/step
+Epoch 18/100
+300/300 - 0s - loss: 1.7619 - 458ms/epoch - 2ms/step
+Epoch 19/100
+300/300 - 0s - loss: 1.7645 - 440ms/epoch - 1ms/step
+Epoch 20/100
+300/300 - 0s - loss: 1.7217 - 449ms/epoch - 1ms/step
+Epoch 21/100
+300/300 - 0s - loss: 1.7404 - 455ms/epoch - 2ms/step
+Epoch 22/100
+300/300 - 0s - loss: 1.7453 - 441ms/epoch - 1ms/step
+Epoch 23/100
+300/300 - 0s - loss: 1.7180 - 448ms/epoch - 1ms/step
+Epoch 24/100
+300/300 - 0s - loss: 1.7085 - 459ms/epoch - 2ms/step
+Epoch 25/100
+300/300 - 0s - loss: 1.6977 - 455ms/epoch - 2ms/step
+Epoch 26/100
+300/300 - 0s - loss: 1.7057 - 456ms/epoch - 2ms/step
+Epoch 27/100
+300/300 - 0s - loss: 1.6902 - 446ms/epoch - 1ms/step
+Epoch 28/100
+300/300 - 0s - loss: 1.6825 - 453ms/epoch - 2ms/step
+Epoch 29/100
+300/300 - 0s - loss: 1.6696 - 435ms/epoch - 1ms/step
+Epoch 30/100
+300/300 - 0s - loss: 1.6572 - 439ms/epoch - 1ms/step
+Epoch 31/100
+300/300 - 0s - loss: 1.6604 - 436ms/epoch - 1ms/step
+Epoch 32/100
+300/300 - 0s - loss: 1.6746 - 453ms/epoch - 2ms/step
+Epoch 33/100
+300/300 - 0s - loss: 1.6622 - 435ms/epoch - 1ms/step
+Epoch 34/100
+300/300 - 0s - loss: 1.6537 - 438ms/epoch - 1ms/step
+Epoch 35/100
+300/300 - 0s - loss: 1.6022 - 433ms/epoch - 1ms/step
+Epoch 36/100
+300/300 - 0s - loss: 1.6236 - 461ms/epoch - 2ms/step
+Epoch 37/100
+300/300 - 0s - loss: 1.6025 - 461ms/epoch - 2ms/step
+Epoch 38/100
+300/300 - 0s - loss: 1.5784 - 451ms/epoch - 2ms/step
+Epoch 39/100
+300/300 - 0s - loss: 1.5573 - 449ms/epoch - 1ms/step
+Epoch 40/100
+300/300 - 0s - loss: 1.5993 - 455ms/epoch - 2ms/step
+Epoch 41/100
+300/300 - 0s - loss: 1.5863 - 456ms/epoch - 2ms/step
+Epoch 42/100
+300/300 - 0s - loss: 1.5797 - 447ms/epoch - 1ms/step
+Epoch 43/100
+300/300 - 0s - loss: 1.5756 - 450ms/epoch - 2ms/step
+Epoch 44/100
+300/300 - 0s - loss: 1.5529 - 435ms/epoch - 1ms/step
+Epoch 45/100
+300/300 - 0s - loss: 1.5727 - 451ms/epoch - 2ms/step
+Epoch 46/100
+300/300 - 0s - loss: 1.5588 - 462ms/epoch - 2ms/step
+Epoch 47/100
+300/300 - 0s - loss: 1.5662 - 437ms/epoch - 1ms/step
+Epoch 48/100
+300/300 - 0s - loss: 1.5430 - 442ms/epoch - 1ms/step
+Epoch 49/100
+300/300 - 0s - loss: 1.5388 - 460ms/epoch - 2ms/step
+Epoch 50/100
+300/300 - 0s - loss: 1.5495 - 444ms/epoch - 1ms/step
+Epoch 51/100
+300/300 - 0s - loss: 1.4925 - 434ms/epoch - 1ms/step
+Epoch 52/100
+300/300 - 0s - loss: 1.4903 - 437ms/epoch - 1ms/step
+Epoch 53/100
+300/300 - 0s - loss: 1.4942 - 440ms/epoch - 1ms/step
+Epoch 54/100
+300/300 - 0s - loss: 1.4930 - 441ms/epoch - 1ms/step
+Epoch 55/100
+300/300 - 0s - loss: 1.4917 - 442ms/epoch - 1ms/step
+Epoch 56/100
+300/300 - 0s - loss: 1.4939 - 441ms/epoch - 1ms/step
+Epoch 57/100
+300/300 - 0s - loss: 1.4807 - 446ms/epoch - 1ms/step
+Epoch 58/100
+300/300 - 0s - loss: 1.4753 - 458ms/epoch - 2ms/step
+Epoch 59/100
+300/300 - 0s - loss: 1.4454 - 457ms/epoch - 2ms/step
+Epoch 60/100
+300/300 - 0s - loss: 1.4584 - 455ms/epoch - 2ms/step
+Epoch 61/100
+300/300 - 0s - loss: 1.4535 - 452ms/epoch - 2ms/step
+Epoch 62/100
+300/300 - 0s - loss: 1.4530 - 450ms/epoch - 2ms/step
+Epoch 63/100
+300/300 - 0s - loss: 1.4319 - 452ms/epoch - 2ms/step
+Epoch 64/100
+300/300 - 0s - loss: 1.4360 - 457ms/epoch - 2ms/step
+Epoch 65/100
+300/300 - 0s - loss: 1.4117 - 455ms/epoch - 2ms/step
+Epoch 66/100
+300/300 - 0s - loss: 1.4289 - 458ms/epoch - 2ms/step
+Epoch 67/100
+300/300 - 0s - loss: 1.3903 - 460ms/epoch - 2ms/step
+Epoch 68/100
+300/300 - 0s - loss: 1.4199 - 437ms/epoch - 1ms/step
+Epoch 69/100
+300/300 - 0s - loss: 1.3988 - 464ms/epoch - 2ms/step
+Epoch 70/100
+300/300 - 0s - loss: 1.4250 - 455ms/epoch - 2ms/step
+Epoch 71/100
+300/300 - 0s - loss: 1.3946 - 460ms/epoch - 2ms/step
+Epoch 72/100
+300/300 - 0s - loss: 1.4220 - 448ms/epoch - 1ms/step
+Epoch 73/100
+300/300 - 0s - loss: 1.3691 - 441ms/epoch - 1ms/step
+Epoch 74/100
+300/300 - 0s - loss: 1.3547 - 459ms/epoch - 2ms/step
+Epoch 75/100
+300/300 - 0s - loss: 1.4022 - 446ms/epoch - 1ms/step
+Epoch 76/100
+300/300 - 0s - loss: 1.4074 - 461ms/epoch - 2ms/step
+Epoch 77/100
+300/300 - 0s - loss: 1.3712 - 453ms/epoch - 2ms/step
+Epoch 78/100
+300/300 - 0s - loss: 1.3767 - 457ms/epoch - 2ms/step
+Epoch 79/100
+300/300 - 0s - loss: 1.3631 - 448ms/epoch - 1ms/step
+Epoch 80/100
+300/300 - 0s - loss: 1.3253 - 457ms/epoch - 2ms/step
+Epoch 81/100
+300/300 - 0s - loss: 1.3443 - 450ms/epoch - 1ms/step
+Epoch 82/100
+300/300 - 0s - loss: 1.3200 - 450ms/epoch - 2ms/step
+Epoch 83/100
+300/300 - 0s - loss: 1.3448 - 463ms/epoch - 2ms/step
+Epoch 84/100
+300/300 - 0s - loss: 1.3464 - 456ms/epoch - 2ms/step
+Epoch 85/100
+300/300 - 0s - loss: 1.3292 - 450ms/epoch - 2ms/step
+Epoch 86/100
+300/300 - 0s - loss: 1.2663 - 436ms/epoch - 1ms/step
+Epoch 87/100
+300/300 - 0s - loss: 1.2933 - 462ms/epoch - 2ms/step
+Epoch 88/100
+300/300 - 0s - loss: 1.2946 - 463ms/epoch - 2ms/step
+Epoch 89/100
+300/300 - 0s - loss: 1.2808 - 441ms/epoch - 1ms/step
+Epoch 90/100
+300/300 - 0s - loss: 1.2847 - 456ms/epoch - 2ms/step
+Epoch 91/100
+300/300 - 0s - loss: 1.3144 - 467ms/epoch - 2ms/step
+Epoch 92/100
+300/300 - 0s - loss: 1.2798 - 459ms/epoch - 2ms/step
+Epoch 93/100
+300/300 - 0s - loss: 1.2706 - 459ms/epoch - 2ms/step
+Epoch 94/100
+300/300 - 0s - loss: 1.2701 - 449ms/epoch - 1ms/step
+Epoch 95/100
+300/300 - 0s - loss: 1.2446 - 439ms/epoch - 1ms/step
+Epoch 96/100
+300/300 - 0s - loss: 1.2464 - 460ms/epoch - 2ms/step
+Epoch 97/100
+300/300 - 0s - loss: 1.2446 - 445ms/epoch - 1ms/step
+Epoch 98/100
+300/300 - 0s - loss: 1.2416 - 456ms/epoch - 2ms/step
+Epoch 99/100
+300/300 - 0s - loss: 1.2429 - 456ms/epoch - 2ms/step
+Epoch 100/100
+300/300 - 0s - loss: 1.2309 - 457ms/epoch - 2ms/step
+training time: 46.46368885040283
+(0.8653223278654268, 8282, 1289, 0, 1)
+(0.6353094071778467, 6355, 3648, 0, 1)
+Epoch 1/100
+300/300 - 1s - loss: 2.0133 - 1s/epoch - 4ms/step
+Epoch 2/100
+300/300 - 0s - loss: 1.9632 - 446ms/epoch - 1ms/step
+Epoch 3/100
+300/300 - 0s - loss: 1.9466 - 461ms/epoch - 2ms/step
+Epoch 4/100
+300/300 - 0s - loss: 1.8850 - 466ms/epoch - 2ms/step
+Epoch 5/100
+300/300 - 0s - loss: 1.8561 - 440ms/epoch - 1ms/step
+Epoch 6/100
+300/300 - 0s - loss: 1.8538 - 458ms/epoch - 2ms/step
+Epoch 7/100
+300/300 - 0s - loss: 1.8290 - 438ms/epoch - 1ms/step
+Epoch 8/100
+300/300 - 0s - loss: 1.8314 - 453ms/epoch - 2ms/step
+Epoch 9/100
+300/300 - 0s - loss: 1.8053 - 457ms/epoch - 2ms/step
+Epoch 10/100
+300/300 - 0s - loss: 1.8125 - 459ms/epoch - 2ms/step
+Epoch 11/100
+300/300 - 0s - loss: 1.8160 - 461ms/epoch - 2ms/step
+Epoch 12/100
+300/300 - 0s - loss: 1.7754 - 456ms/epoch - 2ms/step
+Epoch 13/100
+300/300 - 0s - loss: 1.8036 - 462ms/epoch - 2ms/step
+Epoch 14/100
+300/300 - 0s - loss: 1.7830 - 451ms/epoch - 2ms/step
+Epoch 15/100
+300/300 - 0s - loss: 1.8175 - 466ms/epoch - 2ms/step
+Epoch 16/100
+300/300 - 0s - loss: 1.8174 - 441ms/epoch - 1ms/step
+Epoch 17/100
+300/300 - 0s - loss: 1.8026 - 450ms/epoch - 1ms/step
+Epoch 18/100
+300/300 - 0s - loss: 1.8073 - 463ms/epoch - 2ms/step
+Epoch 19/100
+300/300 - 0s - loss: 1.8055 - 462ms/epoch - 2ms/step
+Epoch 20/100
+300/300 - 0s - loss: 1.7986 - 460ms/epoch - 2ms/step
+Epoch 21/100
+300/300 - 0s - loss: 1.8002 - 463ms/epoch - 2ms/step
+Epoch 22/100
+300/300 - 0s - loss: 1.8016 - 456ms/epoch - 2ms/step
+Epoch 23/100
+300/300 - 0s - loss: 1.7976 - 455ms/epoch - 2ms/step
+Epoch 24/100
+300/300 - 0s - loss: 1.7771 - 466ms/epoch - 2ms/step
+Epoch 25/100
+300/300 - 0s - loss: 1.7739 - 465ms/epoch - 2ms/step
+Epoch 26/100
+300/300 - 0s - loss: 1.7977 - 463ms/epoch - 2ms/step
+Epoch 27/100
+300/300 - 0s - loss: 1.7992 - 442ms/epoch - 1ms/step
+Epoch 28/100
+300/300 - 0s - loss: 1.7797 - 463ms/epoch - 2ms/step
+Epoch 29/100
+300/300 - 0s - loss: 1.7785 - 460ms/epoch - 2ms/step
+Epoch 30/100
+300/300 - 0s - loss: 1.7646 - 467ms/epoch - 2ms/step
+Epoch 31/100
+300/300 - 0s - loss: 1.7876 - 448ms/epoch - 1ms/step
+Epoch 32/100
+300/300 - 0s - loss: 1.7712 - 456ms/epoch - 2ms/step
+Epoch 33/100
+300/300 - 0s - loss: 1.7716 - 447ms/epoch - 1ms/step
+Epoch 34/100
+300/300 - 0s - loss: 1.7807 - 456ms/epoch - 2ms/step
+Epoch 35/100
+300/300 - 0s - loss: 1.7766 - 462ms/epoch - 2ms/step
+Epoch 36/100
+300/300 - 0s - loss: 1.7913 - 459ms/epoch - 2ms/step
+Epoch 37/100
+300/300 - 0s - loss: 1.7409 - 446ms/epoch - 1ms/step
+Epoch 38/100
+300/300 - 0s - loss: 1.7592 - 458ms/epoch - 2ms/step
+Epoch 39/100
+300/300 - 0s - loss: 1.7728 - 449ms/epoch - 1ms/step
+Epoch 40/100
+300/300 - 0s - loss: 1.7686 - 461ms/epoch - 2ms/step
+Epoch 41/100
+300/300 - 0s - loss: 1.7703 - 455ms/epoch - 2ms/step
+Epoch 42/100
+300/300 - 0s - loss: 1.7672 - 464ms/epoch - 2ms/step
+Epoch 43/100
+300/300 - 0s - loss: 1.7480 - 458ms/epoch - 2ms/step
+Epoch 44/100
+300/300 - 0s - loss: 1.7544 - 463ms/epoch - 2ms/step
+Epoch 45/100
+300/300 - 0s - loss: 1.7378 - 448ms/epoch - 1ms/step
+Epoch 46/100
+300/300 - 0s - loss: 1.7545 - 442ms/epoch - 1ms/step
+Epoch 47/100
+300/300 - 0s - loss: 1.7581 - 458ms/epoch - 2ms/step
+Epoch 48/100
+300/300 - 0s - loss: 1.7297 - 453ms/epoch - 2ms/step
+Epoch 49/100
+300/300 - 0s - loss: 1.7249 - 452ms/epoch - 2ms/step
+Epoch 50/100
+300/300 - 0s - loss: 1.7590 - 464ms/epoch - 2ms/step
+Epoch 51/100
+300/300 - 0s - loss: 1.7339 - 462ms/epoch - 2ms/step
+Epoch 52/100
+300/300 - 0s - loss: 1.7256 - 490ms/epoch - 2ms/step
+Epoch 53/100
+300/300 - 1s - loss: 1.7313 - 502ms/epoch - 2ms/step
+Epoch 54/100
+300/300 - 0s - loss: 1.7192 - 450ms/epoch - 2ms/step
+Epoch 55/100
+300/300 - 0s - loss: 1.7421 - 466ms/epoch - 2ms/step
+Epoch 56/100
+300/300 - 0s - loss: 1.6946 - 465ms/epoch - 2ms/step
+Epoch 57/100
+300/300 - 0s - loss: 1.7193 - 459ms/epoch - 2ms/step
+Epoch 58/100
+300/300 - 0s - loss: 1.7026 - 462ms/epoch - 2ms/step
+Epoch 59/100
+300/300 - 0s - loss: 1.6957 - 461ms/epoch - 2ms/step
+Epoch 60/100
+300/300 - 0s - loss: 1.6766 - 466ms/epoch - 2ms/step
+Epoch 61/100
+300/300 - 0s - loss: 1.6506 - 443ms/epoch - 1ms/step
+Epoch 62/100
+300/300 - 0s - loss: 1.6777 - 464ms/epoch - 2ms/step
+Epoch 63/100
+300/300 - 0s - loss: 1.6446 - 463ms/epoch - 2ms/step
+Epoch 64/100
+300/300 - 0s - loss: 1.6502 - 470ms/epoch - 2ms/step
+Epoch 65/100
+300/300 - 0s - loss: 1.6588 - 466ms/epoch - 2ms/step
+Epoch 66/100
+300/300 - 0s - loss: 1.6722 - 463ms/epoch - 2ms/step
+Epoch 67/100
+300/300 - 0s - loss: 1.6524 - 458ms/epoch - 2ms/step
+Epoch 68/100
+300/300 - 0s - loss: 1.6698 - 454ms/epoch - 2ms/step
+Epoch 69/100
+300/300 - 0s - loss: 1.6667 - 463ms/epoch - 2ms/step
+Epoch 70/100
+300/300 - 0s - loss: 1.6211 - 439ms/epoch - 1ms/step
+Epoch 71/100
+300/300 - 0s - loss: 1.6338 - 465ms/epoch - 2ms/step
+Epoch 72/100
+300/300 - 0s - loss: 1.6562 - 443ms/epoch - 1ms/step
+Epoch 73/100
+300/300 - 0s - loss: 1.6247 - 469ms/epoch - 2ms/step
+Epoch 74/100
+300/300 - 0s - loss: 1.6276 - 441ms/epoch - 1ms/step
+Epoch 75/100
+300/300 - 0s - loss: 1.6303 - 468ms/epoch - 2ms/step
+Epoch 76/100
+300/300 - 0s - loss: 1.6022 - 461ms/epoch - 2ms/step
+Epoch 77/100
+300/300 - 0s - loss: 1.6101 - 456ms/epoch - 2ms/step
+Epoch 78/100
+300/300 - 0s - loss: 1.6306 - 445ms/epoch - 1ms/step
+Epoch 79/100
+300/300 - 0s - loss: 1.6064 - 462ms/epoch - 2ms/step
+Epoch 80/100
+300/300 - 0s - loss: 1.6053 - 462ms/epoch - 2ms/step
+Epoch 81/100
+300/300 - 0s - loss: 1.5670 - 469ms/epoch - 2ms/step
+Epoch 82/100
+300/300 - 0s - loss: 1.5841 - 460ms/epoch - 2ms/step
+Epoch 83/100
+300/300 - 0s - loss: 1.6081 - 442ms/epoch - 1ms/step
+Epoch 84/100
+300/300 - 0s - loss: 1.6068 - 463ms/epoch - 2ms/step
+Epoch 85/100
+300/300 - 0s - loss: 1.5818 - 449ms/epoch - 1ms/step
+Epoch 86/100
+300/300 - 0s - loss: 1.5794 - 465ms/epoch - 2ms/step
+Epoch 87/100
+300/300 - 0s - loss: 1.5892 - 459ms/epoch - 2ms/step
+Epoch 88/100
+300/300 - 0s - loss: 1.5637 - 466ms/epoch - 2ms/step
+Epoch 89/100
+300/300 - 0s - loss: 1.5592 - 467ms/epoch - 2ms/step
+Epoch 90/100
+300/300 - 0s - loss: 1.5694 - 460ms/epoch - 2ms/step
+Epoch 91/100
+300/300 - 0s - loss: 1.5563 - 450ms/epoch - 2ms/step
+Epoch 92/100
+300/300 - 0s - loss: 1.5250 - 463ms/epoch - 2ms/step
+Epoch 93/100
+300/300 - 0s - loss: 1.5347 - 461ms/epoch - 2ms/step
+Epoch 94/100
+300/300 - 0s - loss: 1.5095 - 457ms/epoch - 2ms/step
+Epoch 95/100
+300/300 - 0s - loss: 1.5476 - 463ms/epoch - 2ms/step
+Epoch 96/100
+300/300 - 0s - loss: 1.5279 - 458ms/epoch - 2ms/step
+Epoch 97/100
+300/300 - 0s - loss: 1.5352 - 463ms/epoch - 2ms/step
+Epoch 98/100
+300/300 - 0s - loss: 1.5014 - 460ms/epoch - 2ms/step
+Epoch 99/100
+300/300 - 0s - loss: 1.5187 - 463ms/epoch - 2ms/step
+Epoch 100/100
+300/300 - 0s - loss: 1.5212 - 453ms/epoch - 2ms/step
+training time: 47.281261920928955
+(0.8096819106779479, 7560, 1777, 0, 2)
+(0.5661577608142494, 5785, 4433, 0, 2)
+Epoch 1/100
+300/300 - 1s - loss: 1.8651 - 1s/epoch - 4ms/step
+Epoch 2/100
+300/300 - 0s - loss: 1.8501 - 458ms/epoch - 2ms/step
+Epoch 3/100
+300/300 - 0s - loss: 1.8384 - 459ms/epoch - 2ms/step
+Epoch 4/100
+300/300 - 0s - loss: 1.8143 - 461ms/epoch - 2ms/step
+Epoch 5/100
+300/300 - 0s - loss: 1.8065 - 462ms/epoch - 2ms/step
+Epoch 6/100
+300/300 - 0s - loss: 1.8087 - 458ms/epoch - 2ms/step
+Epoch 7/100
+300/300 - 0s - loss: 1.7983 - 437ms/epoch - 1ms/step
+Epoch 8/100
+300/300 - 0s - loss: 1.7946 - 452ms/epoch - 2ms/step
+Epoch 9/100
+300/300 - 0s - loss: 1.8009 - 457ms/epoch - 2ms/step
+Epoch 10/100
+300/300 - 0s - loss: 1.8170 - 449ms/epoch - 1ms/step
+Epoch 11/100
+300/300 - 0s - loss: 1.8052 - 440ms/epoch - 1ms/step
+Epoch 12/100
+300/300 - 0s - loss: 1.7658 - 465ms/epoch - 2ms/step
+Epoch 13/100
+300/300 - 0s - loss: 1.7704 - 441ms/epoch - 1ms/step
+Epoch 14/100
+300/300 - 0s - loss: 1.7879 - 482ms/epoch - 2ms/step
+Epoch 15/100
+300/300 - 0s - loss: 1.7744 - 452ms/epoch - 2ms/step
+Epoch 16/100
+300/300 - 0s - loss: 1.7708 - 464ms/epoch - 2ms/step
+Epoch 17/100
+300/300 - 0s - loss: 1.7799 - 450ms/epoch - 1ms/step
+Epoch 18/100
+300/300 - 0s - loss: 1.7669 - 461ms/epoch - 2ms/step
+Epoch 19/100
+300/300 - 0s - loss: 1.7512 - 458ms/epoch - 2ms/step
+Epoch 20/100
+300/300 - 0s - loss: 1.7509 - 436ms/epoch - 1ms/step
+Epoch 21/100
+300/300 - 0s - loss: 1.7401 - 447ms/epoch - 1ms/step
+Epoch 22/100
+300/300 - 0s - loss: 1.7620 - 450ms/epoch - 1ms/step
+Epoch 23/100
+300/300 - 0s - loss: 1.7394 - 452ms/epoch - 2ms/step
+Epoch 24/100
+300/300 - 0s - loss: 1.7274 - 438ms/epoch - 1ms/step
+Epoch 25/100
+300/300 - 0s - loss: 1.7374 - 443ms/epoch - 1ms/step
+Epoch 26/100
+300/300 - 0s - loss: 1.7136 - 442ms/epoch - 1ms/step
+Epoch 27/100
+300/300 - 0s - loss: 1.7237 - 456ms/epoch - 2ms/step
+Epoch 28/100
+300/300 - 0s - loss: 1.7000 - 440ms/epoch - 1ms/step
+Epoch 29/100
+300/300 - 0s - loss: 1.6798 - 459ms/epoch - 2ms/step
+Epoch 30/100
+300/300 - 0s - loss: 1.7013 - 451ms/epoch - 2ms/step
+Epoch 31/100
+300/300 - 0s - loss: 1.6867 - 450ms/epoch - 2ms/step
+Epoch 32/100
+300/300 - 0s - loss: 1.6938 - 451ms/epoch - 2ms/step
+Epoch 33/100
+300/300 - 0s - loss: 1.6600 - 442ms/epoch - 1ms/step
+Epoch 34/100
+300/300 - 0s - loss: 1.6751 - 451ms/epoch - 2ms/step
+Epoch 35/100
+300/300 - 0s - loss: 1.6608 - 467ms/epoch - 2ms/step
+Epoch 36/100
+300/300 - 0s - loss: 1.6465 - 460ms/epoch - 2ms/step
+Epoch 37/100
+300/300 - 0s - loss: 1.6536 - 464ms/epoch - 2ms/step
+Epoch 38/100
+300/300 - 0s - loss: 1.6466 - 443ms/epoch - 1ms/step
+Epoch 39/100
+300/300 - 0s - loss: 1.6441 - 454ms/epoch - 2ms/step
+Epoch 40/100
+300/300 - 0s - loss: 1.6212 - 462ms/epoch - 2ms/step
+Epoch 41/100
+300/300 - 0s - loss: 1.6495 - 452ms/epoch - 2ms/step
+Epoch 42/100
+300/300 - 0s - loss: 1.6363 - 445ms/epoch - 1ms/step
+Epoch 43/100
+300/300 - 0s - loss: 1.6363 - 459ms/epoch - 2ms/step
+Epoch 44/100
+300/300 - 0s - loss: 1.6376 - 456ms/epoch - 2ms/step
+Epoch 45/100
+300/300 - 0s - loss: 1.6264 - 460ms/epoch - 2ms/step
+Epoch 46/100
+300/300 - 0s - loss: 1.5832 - 442ms/epoch - 1ms/step
+Epoch 47/100
+300/300 - 0s - loss: 1.5802 - 452ms/epoch - 2ms/step
+Epoch 48/100
+300/300 - 0s - loss: 1.6206 - 446ms/epoch - 1ms/step
+Epoch 49/100
+300/300 - 0s - loss: 1.5474 - 460ms/epoch - 2ms/step
+Epoch 50/100
+300/300 - 0s - loss: 1.5667 - 442ms/epoch - 1ms/step
+Epoch 51/100
+300/300 - 0s - loss: 1.5632 - 447ms/epoch - 1ms/step
+Epoch 52/100
+300/300 - 0s - loss: 1.5592 - 444ms/epoch - 1ms/step
+Epoch 53/100
+300/300 - 0s - loss: 1.5640 - 442ms/epoch - 1ms/step
+Epoch 54/100
+300/300 - 0s - loss: 1.5323 - 455ms/epoch - 2ms/step
+Epoch 55/100
+300/300 - 0s - loss: 1.5219 - 461ms/epoch - 2ms/step
+Epoch 56/100
+300/300 - 0s - loss: 1.5290 - 455ms/epoch - 2ms/step
+Epoch 57/100
+300/300 - 0s - loss: 1.5404 - 448ms/epoch - 1ms/step
+Epoch 58/100
+300/300 - 0s - loss: 1.5428 - 458ms/epoch - 2ms/step
+Epoch 59/100
+300/300 - 0s - loss: 1.5350 - 459ms/epoch - 2ms/step
+Epoch 60/100
+300/300 - 0s - loss: 1.5297 - 443ms/epoch - 1ms/step
+Epoch 61/100
+300/300 - 0s - loss: 1.5435 - 456ms/epoch - 2ms/step
+Epoch 62/100
+300/300 - 0s - loss: 1.5126 - 448ms/epoch - 1ms/step
+Epoch 63/100
+300/300 - 0s - loss: 1.5344 - 461ms/epoch - 2ms/step
+Epoch 64/100
+300/300 - 0s - loss: 1.5190 - 449ms/epoch - 1ms/step
+Epoch 65/100
+300/300 - 0s - loss: 1.4866 - 450ms/epoch - 1ms/step
+Epoch 66/100
+300/300 - 0s - loss: 1.5095 - 459ms/epoch - 2ms/step
+Epoch 67/100
+300/300 - 0s - loss: 1.5047 - 453ms/epoch - 2ms/step
+Epoch 68/100
+300/300 - 0s - loss: 1.4641 - 449ms/epoch - 1ms/step
+Epoch 69/100
+300/300 - 0s - loss: 1.4997 - 461ms/epoch - 2ms/step
+Epoch 70/100
+300/300 - 0s - loss: 1.4970 - 446ms/epoch - 1ms/step
+Epoch 71/100
+300/300 - 0s - loss: 1.4822 - 457ms/epoch - 2ms/step
+Epoch 72/100
+300/300 - 0s - loss: 1.4609 - 456ms/epoch - 2ms/step
+Epoch 73/100
+300/300 - 0s - loss: 1.4556 - 456ms/epoch - 2ms/step
+Epoch 74/100
+300/300 - 0s - loss: 1.4798 - 449ms/epoch - 1ms/step
+Epoch 75/100
+300/300 - 0s - loss: 1.4734 - 448ms/epoch - 1ms/step
+Epoch 76/100
+300/300 - 0s - loss: 1.4673 - 457ms/epoch - 2ms/step
+Epoch 77/100
+300/300 - 0s - loss: 1.4680 - 444ms/epoch - 1ms/step
+Epoch 78/100
+300/300 - 0s - loss: 1.4219 - 454ms/epoch - 2ms/step
+Epoch 79/100
+300/300 - 0s - loss: 1.4522 - 455ms/epoch - 2ms/step
+Epoch 80/100
+300/300 - 0s - loss: 1.4505 - 479ms/epoch - 2ms/step
+Epoch 81/100
+300/300 - 0s - loss: 1.4312 - 443ms/epoch - 1ms/step
+Epoch 82/100
+300/300 - 0s - loss: 1.4236 - 456ms/epoch - 2ms/step
+Epoch 83/100
+300/300 - 0s - loss: 1.4161 - 464ms/epoch - 2ms/step
+Epoch 84/100
+300/300 - 0s - loss: 1.4577 - 447ms/epoch - 1ms/step
+Epoch 85/100
+300/300 - 0s - loss: 1.4634 - 455ms/epoch - 2ms/step
+Epoch 86/100
+300/300 - 0s - loss: 1.4301 - 461ms/epoch - 2ms/step
+Epoch 87/100
+300/300 - 0s - loss: 1.4284 - 462ms/epoch - 2ms/step
+Epoch 88/100
+300/300 - 0s - loss: 1.3960 - 463ms/epoch - 2ms/step
+Epoch 89/100
+300/300 - 0s - loss: 1.3703 - 443ms/epoch - 1ms/step
+Epoch 90/100
+300/300 - 0s - loss: 1.3722 - 453ms/epoch - 2ms/step
+Epoch 91/100
+300/300 - 0s - loss: 1.4228 - 446ms/epoch - 1ms/step
+Epoch 92/100
+300/300 - 0s - loss: 1.3699 - 451ms/epoch - 2ms/step
+Epoch 93/100
+300/300 - 0s - loss: 1.3968 - 438ms/epoch - 1ms/step
+Epoch 94/100
+300/300 - 0s - loss: 1.3943 - 454ms/epoch - 2ms/step
+Epoch 95/100
+300/300 - 0s - loss: 1.3902 - 458ms/epoch - 2ms/step
+Epoch 96/100
+300/300 - 0s - loss: 1.3448 - 444ms/epoch - 1ms/step
+Epoch 97/100
+300/300 - 0s - loss: 1.3473 - 448ms/epoch - 1ms/step
+Epoch 98/100
+300/300 - 0s - loss: 1.3584 - 453ms/epoch - 2ms/step
+Epoch 99/100
+300/300 - 0s - loss: 1.3324 - 461ms/epoch - 2ms/step
+Epoch 100/100
+300/300 - 0s - loss: 1.3507 - 447ms/epoch - 1ms/step
+training time: 46.71823167800903
+(0.8409689310163244, 7985, 1510, 0, 3)
+(0.5961195802811324, 6022, 4080, 0, 4)
+0.8486243726161113
+0.027377888940575325
+0.6045301038294525
+0.022920305762531352
